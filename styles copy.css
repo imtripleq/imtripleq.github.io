@@ -17,15 +17,12 @@ h1 {
   text-align: center;
   font-size: 62px;
   text-decoration: none;
-  background: linear-gradient(to right, hsl(98 100% 62%), hsl(204 100% 59%));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background-color: black;
 }
 
 h1 a {
   text-decoration: none;
   color: gray;
-  line-height: 1.1;
 }
 img {
   margin: auto;
