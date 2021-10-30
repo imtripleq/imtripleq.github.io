@@ -24,9 +24,10 @@ h1 {
 
 h1 a {
   text-decoration: none;
-  color: gray;
-  line-height: 1.1;
+  /* color: gray; */
+  /* line-height: 1.1; */
 }
+
 img {
   margin: auto;
   display: block;
@@ -34,4 +35,9 @@ img {
 
 #link {
   text-align: center;
+}
+
+#haha {
+  width: 25%;
+  margin: auto;
 }
